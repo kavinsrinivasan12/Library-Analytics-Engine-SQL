@@ -49,10 +49,5 @@ Flagging and working around these issues (rather than assuming clean data) was p
 - Only a small fraction of issued books remain overdue past 30 days — most returns happen within a healthy window
 - One author (Abdul Sant) accounts for the highest number of book issues across the catalog
 
-## 🚀 How to Run
-
-1. Import the 6 CSV files into a MySQL instance using the schema in `schema.sql`
-2. Run `library_queries.sql` to reproduce all 15 analyses
-3. (Optional) Review `data_quality_notes.md` before running return-based aggregations
 
 ---
